@@ -6,8 +6,7 @@
 
   - Project Matrixx is a custom ROM based on [crDroid Android]
 
-  - Added few extra features and borrowed UI from [RisingOS]
-- Currently our source is ready for Android 14
+  
 <br>
 </a>
 <a href="https://xdaforums.com/m/neroki.12679945/">
@@ -27,6 +26,7 @@ Only for Snapdragon versions
 Credits
 =======
  * [**AOSP**](https://android.googlesource.com)
+ * [**ProjectMatrixx**](https://github.com/ProjectMatrixx)
  * [**LineageOS**](https://github.com/LineageOS)
  * [**CrDroid**](https://github.com/crdroidandroid)
  * [**RisingTechOSS**](https://github.com/RisingTechOSS)
